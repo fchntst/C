@@ -1,5 +1,3 @@
-// a program that calculates simple integers with the input
-
 #include <stdio.h>
 
 void main()
