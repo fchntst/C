@@ -16,6 +16,6 @@ void main()
     }
     else
     {
-        printf("You are a retiree");
+        printf("You are a retired");
     }  
 }
