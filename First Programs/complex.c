@@ -1,4 +1,3 @@
-// to be honest i don't really understand how this works
 #include <stdio.h>
 
 void main()
