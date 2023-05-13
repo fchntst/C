@@ -6,7 +6,7 @@ void main()
     FILE *fp;
     char c;
 
-    fp = fopen("files_psounis_3.txt", "r");
+    fp = fopen("files2.txt", "r");
     if(fp == NULL)
     {
         printf("Unable to lock Memory!\n");
