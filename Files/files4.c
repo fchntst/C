@@ -16,7 +16,7 @@ void main()
 
     struct point data[N];
 
-    fp = fopen("files_psounis_4.dat", "rb");
+    fp = fopen("files4.dat", "rb");
     if(fp == NULL)
     {
         printf("Unable to lock Memory!");
