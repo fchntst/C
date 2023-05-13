@@ -25,5 +25,3 @@ int mystrlen(char *s)
     }
     return cnt;
 }
-
-// i gotta practice this program again!
