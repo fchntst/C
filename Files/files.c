@@ -7,7 +7,7 @@ void main()
     int x = 1;
 
     // Open file
-    fp = fopen("files_psounis_1.txt", "w");
+    fp = fopen("files.txt", "w");
     if(fp == NULL)
     {
         printf("Enable to lock memory!");
