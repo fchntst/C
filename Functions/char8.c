@@ -76,7 +76,3 @@ int mystrcmp(char *str1, char *str2)
         i++;
     }
 }
-
-// simantiko programa prepei na
-// to ksana kanw monos pali apo
-// tin arxi!!!!!!!!!!!!!!!!!!!!
