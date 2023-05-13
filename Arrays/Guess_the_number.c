@@ -10,9 +10,6 @@ int main()
 
     hidden = rand() % 100;
     
-    // If the number is bigger that the input should appear a message
-    // that tells the user to disicrease the number of the input
-    
     do{
         printf("Guess the number!: "); // good luck
         scanf("%d", &cnt);
