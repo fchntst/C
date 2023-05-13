@@ -22,9 +22,3 @@ void swap(int *ptra, int *ptrb)
     *ptrb = k;
     printf("Swap: a=%d\t b=%d\n", *ptra, *ptrb);
 }
-
-// In important Programs there is program called swap
-// This program is almost the same as this one
-// But the only difference is that here we use pointers instead
-// It's just changing the output
-
