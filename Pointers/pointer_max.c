@@ -47,26 +47,3 @@ void max_array(int *array, int n)
     }
     printf("\n The max is: %d", max);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
