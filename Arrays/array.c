@@ -1,15 +1,23 @@
 #include <stdio.h>
-
-int main()
+#define SIZE 10
+void main()
 {
-    int pin[3];
+    int i;
+    int array[SIZE];
     int sum;
+    
+    for (i = 0; i <= SIZE; i++)
+    {
+        printf("give the %d number: ", i + 1);
+        scanf("%d", &array[i]);
+    }
 
-    pin[0] = 1;
-    pin[1] = 3;
-    pin[2] = 4;
+    sum = 0;
+    for (i = 0; i < SIZE; i++)
+    {
+        sum = sum + array[i];
+    }
 
-    sum = pin[0] + pin[1] + pin[2];
-    printf("\n%d + %d + %d = %d", pin[0], pin[1], pin[2], sum);
-    return 0;
+    printf("The sum is: %d", sum);  
 }
+ 
