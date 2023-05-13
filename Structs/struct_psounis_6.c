@@ -135,8 +135,3 @@ void copy_record(RECORD *dest, RECORD src)
     strcpy((*dest).number, src.number);
     strcpy((*dest).state, src.state);
 }
-
-
-// this one is very hard
-// there is no way i could do thing alone
-// anyway i need to recode it!
