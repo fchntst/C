@@ -76,7 +76,3 @@ int string_comparison(char *string1, char *string2)
         i++;
     }
 }
-
-// I should really consider trying coding this one again
-// the function is pretty enteresting
-// So yeah...
