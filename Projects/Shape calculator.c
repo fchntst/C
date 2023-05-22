@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 #define PI 3.1415
-#define e 2.71828
 #define TRUE 1
 #define FALSE 0
 
